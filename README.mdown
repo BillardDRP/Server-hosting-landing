@@ -1,0 +1,13 @@
+# Heeeeeeyyyyy
+
+dis will be for when i release teh full website, (i will merge dis to billardrp/github.io) when i done!
+
+yay?
+
+# DERIVED FROM A BOOTSTRAP TEMPLATE BY START BOOTSTRAP
+# licensed under the Apache 2.0 license (see file: LICENSE)
+
+# WORKING IMAGE CREDITS:
+# Source: freerangestock.com
+## license: https://freerangestock.com/licensing.php
+## Banner (social, bottom): https://freerangestock.com/photos/23679/server-network-panel.html  
